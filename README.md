@@ -14,4 +14,6 @@
 
 #4: <a href="https://p4rt33k.github.io/JavaScriptWorksWonders/WeatherApp/" target="_blank">Weather App</a>
 
+#5: <a href="https://p4rt33k.github.io/JavaScriptWorksWonders/TypingTest/" target="_blank">Typing Test</a>
+
 #### <a href="https://parteek-portfolio.netlify.app/homepage" target="_blank">My personal portfolio website</a>
