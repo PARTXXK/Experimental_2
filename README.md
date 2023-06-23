@@ -4,7 +4,7 @@
 
 ## Well, most of the times.
 
-### Some small JS projects. :point_down:
+### :point_down: Some small JS projects.
 
 #1: <a href="https://p4rt33k.github.io/JavaScriptWorksWonders/PixelArtGenerator/" target="_blank">Pixel Art Generator</a>
 
@@ -19,3 +19,5 @@
 #5: <a href="https://p4rt33k.github.io/JavaScriptWorksWonders/TranslatorApp/" target="_blank">Translator App</a>
 
 #### <a href="https://parteek-portfolio.netlify.app/homepage" target="_blank">My personal portfolio website</a>
+
+###### "I don't know why I kept the name of this repository like this. It's bad but it works, I guess."
