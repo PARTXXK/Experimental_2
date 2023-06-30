@@ -1,10 +1,8 @@
-# JavaScript works?
+# Experiments - 2
 
-## It does. :thumbsup:
+### This is the second part of my Experimental series. These projects have a bit serious javascript coding rather than colourful stuff, including use of APIs. But, there still might be some interesting stuff. :wink:
 
-## Well, most of the times.
-
-### :point_down: Some small JS projects.
+#### Links for all projects are below:
 
 #1: <a href="https://p4rt33k.github.io/JavaScriptWorksWonders/PixelArtGenerator/" target="_blank">Pixel Art Generator</a>
 
@@ -24,4 +22,5 @@
 
 #### <a href="https://parteek-portfolio.netlify.app/homepage" target="_blank">My personal portfolio website</a>
 
-###### "I don't know why I kept the name of this repository like this. It's bad but it works, I guess."
+##### Thanks a lot!
+##### By: Parteek
