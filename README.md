@@ -1,6 +1,6 @@
 # Experiments - 2
 
-### This is the second part of my Experimental series. These projects have a bit serious javascript coding rather than colourful stuff, including use of APIs. But, there still might be some interesting stuff. :wink:
+### This is the second part of my Experimental series. These projects have a bit serious javascript coding rather than colourful stuff, including use of APIs. But, there still might be some fun stuff. :wink:
 
 #### Links for all projects are below:
 
