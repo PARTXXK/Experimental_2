@@ -1,8 +1,8 @@
 # Experiments - 2
 
-### This is the second part of my Experimental series. These projects have a bit serious javascript coding rather than colourful stuff, including use of APIs. But, there still might be some fun stuff. :wink:
+### This is the second part of my Experimental series. These projects have a bit serious javascript coding rather than colourful stuff, including use of APIs. But, there still might be some fun stuff. :wink
 
-#### Links for all projects are below:
+#### Links for all projects are below
 
 #1: <a href="https://p4rt33k.github.io/Experimental_2/PixelArtGenerator/index.html">Pixel Art Generator</a>
 
@@ -20,7 +20,10 @@
 
 #8: <a href="https://p4rt33k.github.io/Experimental_2/TradingViewApp/home.html">Trading View App</a>
 
+#9: <a href="https://p4rt33k.github.io/Experimental_2/CurrencyConverter/home.html">Currency Converter</a>
+
 #### <a href="https://parteek-portfolio.netlify.app/homepage">My personal portfolio website</a>
 
-##### Thanks a lot!
+##### Thanks a lot
+
 ##### By: Parteek
